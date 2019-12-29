@@ -1,0 +1,58 @@
+
+.recommend-content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	margin: 0rpx 0rpx 0rpx 33rpx;
+	padding-bottom: 41rpx;
+}
+.recommend-title {
+	margin: 24.3rpx 0rpx;
+	font-size: 31.3rpx;
+	color: #1a1a1a;
+}
+.recommend-outer{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.recommend-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	width: 216.7rpx;
+	margin: 0rpx 16.3rpx 0rpx 0rpx;
+}
+.recommend-img {
+	height: 216.7rpx;
+	width: 216.7rpx;
+	border-radius: 8.3rpx;
+}
+.recommend-good-name {
+	margin: 14rpx 0rpx 4.7rpx 0rpx;
+	font-size: 27.1rpx;
+	color: #1a1a1a;
+}
+.recommend-price {
+	font-size: 20.8rpx;
+	color: #fa2a2d;
+	margin: 0rpx 10rpx 0rpx 0rpx;
+}
+.recommend-oldPrice {
+	color: #8d8d8d;
+	font-size: 20.8rpx;
+}
+

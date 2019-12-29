@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "明志商城",
+  "usingComponents": {
+    "item-container": "/components/index/item-container",
+    "list-mall": "/components/index/list-mall",
+    "sola": "/components/index/sola"
+  }
+}

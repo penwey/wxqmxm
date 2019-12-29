@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-number-box": "/components/cart/uni-number-box"
+  },
+  "component": true
+}

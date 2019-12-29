@@ -1,0 +1,1 @@
+<view class="goodintroduced-content"><text class="goodintroduced-title">商品介绍</text><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view><text class="goodintroduced-name">{{item.title}}</text><text class="goodintroduced-value">{{item.value}}</text></view></block></view>

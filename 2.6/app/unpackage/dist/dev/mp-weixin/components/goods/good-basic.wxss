@@ -1,0 +1,97 @@
+
+.malldetail-flex-h {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.swiper {
+	width: 750rpx;
+	height: 750rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	indicator-selected-color: rgba(255, 255, 255, 1);
+	indicator-color: rgba(255, 255, 255, 0.5);
+	indicator-size: 12.5rpx;
+}
+.image {
+	width: 750rpx;
+	height: 750rpx;
+}
+.malldetail-price {
+	margin: 33.3rpx 10rpx 0rpx 33rpx;
+	color: #fa2a2d;
+	font-size: 37.5rpx;
+}
+.malldetail-oldPrice {
+	margin: 45rpx 0rpx 0rpx 0rpx;
+	color: #808080;
+	text-decoration: line-through;
+	font-size: 20.8rpx;
+}
+.malldetail-good-name {
+	margin: 19.8rpx 33rpx 33.9rpx 33rpx;
+	color: #1a1a1a;
+	font-size: 37.5rpx;
+}
+.malldetail-black {
+	height: 17rpx;
+	background-color: #f2f2f2;
+}
+.malldetail-free {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 0rpx 33rpx;
+	padding: 29.2rpx 0rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-color: #cccccc;
+	border-bottom-width: 0.5rpx;
+}
+.malldetail-free-title {
+	padding: 0rpx 10rpx;
+	margin: 0rpx 16.7rpx 0rpx 0rpx;
+	color: #ff7500;
+	border-radius: 4.2rpx;
+	border: 1rpx solid #ff7500;
+	font-size: 20.8rpx;
+}
+.malldetail-free-detail {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	color: #1a1a1a;
+	font-size: 31.3rpx;
+}
+.malldetail-free-btn {
+	padding: 0rpx 9rpx 0rpx 0rpx;
+	font-size: 27.1rpx;
+	color: #808080;
+}
+.malldetail-free-img {
+	width: 16rpx;
+	height: 28rpx;
+}
+.malldetail-free-tips {
+	margin: 29.2rpx 33rpx;
+	font-size: 31.3rpx;
+	color: #1a1a1a;
+}
+

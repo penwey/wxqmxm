@@ -1,0 +1,1 @@
+<view class="container"><block wx:if="{{cartList.length===0}}"><empty vue-id="1" bind:__l="__l"></empty></block><block wx:else><cart-item class="vue-ref" vue-id="2" cartList="{{cartList}}" hasLogin="{{hasLogin}}" data-ref="cart" bind:__l="__l"></cart-item></block></view>

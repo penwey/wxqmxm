@@ -1,0 +1,1 @@
+<view class="empty"><image src="http://cdn.mzyun.tech/shop/emptyCart.jpg" mode="aspectFit"></image><view class="empty-tips">空空如也<navigator class="navigator" url="/pages/tabs/index/index" open-type="switchTab">随便逛逛></navigator></view></view>

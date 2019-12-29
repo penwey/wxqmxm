@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "user-card": "/components/mine/user-card",
+    "grid": "/components/common/grid",
+    "uni-list": "/components/mine/uni-list",
+    "uni-list-item": "/components/mine/uni-list-item"
+  }
+}

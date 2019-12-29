@@ -1,0 +1,38 @@
+
+.specfic-content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 24.1rpx 33rpx 33.3rpx 33rpx;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.specfic-title {
+	font-size: 31.3rpx;
+	color: #1a1a1a;
+}
+.specfic-item {
+	width: 148rpx;
+	text-align: center;
+	padding: 0rpx 7.5rpx;
+	margin: 24.2rpx 16.7rpx 41rpx 0rpx;
+	font-size: 25rpx;
+	color: #1a1a1a;
+	border-radius: 8.3rpx;
+	background-color: #f2f2f2;
+}
+.specfic-item-active {
+	width: 148rpx;
+	text-align: center;
+	padding: 0rpx 7.5rpx;
+	margin: 24.2rpx 16.7rpx 41rpx 0rpx;
+	font-size: 25rpx;
+	color: #ff7500;
+	border: 1rpx solid #ff7500;
+	border-radius: 8.3rpx;
+}
+

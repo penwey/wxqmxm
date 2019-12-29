@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/tabs/index/index",
+    "pages/tabs/type/type",
+    "pages/tabs/cart/cart",
+    "pages/tabs/mine/mine",
+    "pages/address/address-list/address-list",
+    "pages/address/address-edit/address-edit",
+    "pages/about/about",
+    "pages/setting/setting",
+    "pages/goods/detail/detail",
+    "pages/order/order"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "彭文宇的商城",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#d81e06",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabs/index/index",
+        "iconPath": "static/tabs/index.png",
+        "selectedIconPath": "static/tabs/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabs/type/type",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/tabs/cart/cart",
+        "iconPath": "static/tabs/cart.png",
+        "selectedIconPath": "static/tabs/cart1.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/tabs/mine/mine",
+        "iconPath": "static/tabs/mine.png",
+        "selectedIconPath": "static/tabs/mine1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

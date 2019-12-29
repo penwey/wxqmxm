@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "设置",
+  "usingComponents": {
+    "uni-list": "/components/mine/uni-list",
+    "uni-list-item": "/components/mine/uni-list-item"
+  }
+}

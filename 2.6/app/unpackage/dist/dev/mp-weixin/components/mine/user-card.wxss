@@ -1,0 +1,124 @@
+
+.user-card {
+	margin: 5% 5%;
+	width: 90%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	height: 320rpx;
+	border-radius: 15rpx;
+	background: -o-linear-gradient(45deg,#FFFF00,#F0AD4E);
+	background: linear-gradient(45deg,#FFFF00,#F0AD4E);
+}
+.usercard-top {
+	width: 100%;
+}
+.avatar {
+	width: 40%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-align-content: center;
+	    -ms-flex-line-pack: center;
+	        align-content: center;
+	text-align: right;
+}
+.avatar-noexpand {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	text-align: right;
+}
+.avatar image {
+	border-radius: 70rpx;
+	width: 100rpx;
+	height: 100rpx;
+	margin: 50rpx 33.3rpx 0rpx 50rpx;
+}
+.avatar-noexpand image {
+	border-radius: 70rpx;
+	width: 100rpx;
+	height: 100rpx;
+}
+.name text {
+	font-size: 31rpx;
+	color: #5B441A;
+	margin: 50rpx 0rpx 0rpx 0rpx;
+}
+.usercard-bottom {
+	width: 100%;
+	height: 160rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.usercard-bottom-item {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	width: 25%;
+}
+.item-top text {
+	font-size: 31rpx;
+	text-align: center;
+	color: #5B441A
+}
+.item-bottom text {
+	font-size: 25rpx;
+	text-align: center;
+	color: #5B441A
+}
+.line {
+	height: 50rpx;
+	width: 3rpx;
+	margin: 0 20rpx;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+

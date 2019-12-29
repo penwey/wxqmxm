@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "uni-segmented-control": "/components/order/uni-segmented-control",
+    "order-all": "/components/order/order-all",
+    "order-not-pay": "/components/order/order-not-pay",
+    "order-not-receive": "/components/order/order-not-receive",
+    "order-not-evaluate": "/components/order/order-not-evaluate",
+    "order-done": "/components/order/order-done"
+  }
+}

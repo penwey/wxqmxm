@@ -1,0 +1,1 @@
+<view><tree-list vue-id="1" typeList="{{typeList}}" subTypeList="{{subTypeList}}" bind:__l="__l"></tree-list></view>

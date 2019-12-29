@@ -1,0 +1,30 @@
+
+.goodintroduced-content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	margin: 26.4rpx 33rpx 0rpx 33rpx;
+}
+.goodintroduced-title {
+	margin: 0rpx 0rpx 26.4rpx 0rpx;
+	font-size: 31.3rpx;
+	color: #1a1a1a;
+}
+.goodintroduced-name {
+	width: 108.9rpx;
+	margin: 0rpx 33.3rpx 33.3rpx 0rpx;
+	font-size: 27.1rpx;
+	color: #1a1a1a;
+}
+.goodintroduced-value {
+	margin: 0rpx 0rpx 33.3rpx 0rpx;
+	font-size: 27.1rpx;
+	color: #1a1a1a;
+}
+

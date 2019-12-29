@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "good-basic": "/components/goods/good-basic",
+    "good-action": "/components/goods/good-action",
+    "specfic": "/components/goods/specfic",
+    "comment": "/components/goods/comment",
+    "recommend": "/components/goods/recommend",
+    "introduce": "/components/goods/introduce"
+  }
+}

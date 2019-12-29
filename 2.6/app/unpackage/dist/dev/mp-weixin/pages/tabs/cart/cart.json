@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "empty": "/components/cart/empty",
+    "cart-item": "/components/cart/cart-item"
+  }
+}
